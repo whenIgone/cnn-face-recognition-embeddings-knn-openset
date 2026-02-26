@@ -57,14 +57,14 @@ Acurácia total no conjunto de teste: **90.48%**
 As imagens com o relatório e matrizes estão em `images/`.
 
 Exemplos de visualizações:
-- Relatório (precision/recall/f1): `images/results_classification_report.jpg`
-- Matriz de confusão 7×7: `images/confusion_matrix_7x7.jpg`
-- Acurácia por classe: `images/accuracy_by_class.jpg`
+- Relatório (precision/recall/f1): `images/results_classification_report.png`
+- Matriz de confusão 7×7: `images/confusion_matrix_7x7.png`
+- Acurácia por classe: `images/accuracy_by_class.png`
 - Projeção de embeddings (PCA 3D): `images/embeddings_pca3d.jpg`
 
-![Classification report](images/results_classification_report.jpg)
-![Confusion matrix](images/confusion_matrix_7x7.jpg)
-![Accuracy by class](images/accuracy_by_class.jpg)
+![Classification report](images/results_classification_report.png)
+![Confusion matrix](images/confusion_matrix_7x7.png)
+![Accuracy by class](images/accuracy_by_class.png)
 ![Embeddings PCA 3D](images/embeddings_pca3d.jpg)
 
 ---
