@@ -78,3 +78,7 @@ A decisão de “Unknown” é baseada na **menor distância euclidiana** do emb
 - Caso contrário → retorna a classe prevista pelo KNN
 
 > Nota: o threshold é um hiperparâmetro e deve ser calibrado (ex.: analisando distribuições de distância intra vs inter-classe). Uma escolha ruim de threshold pode aumentar falsos aceites ou falsas rejeições.
+
+## Aviso
+
+Este projeto é educacional e voltado a estudo. Não deve ser usado para decisões sensíveis sem validação apropriada.
